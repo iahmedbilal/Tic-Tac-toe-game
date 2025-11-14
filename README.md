@@ -34,6 +34,8 @@
     <img src="mobile .png" alt="Mobile preview ">
   </figure>
 
-  <i><b><p>Happy coding!</p></b></i>
+  live at : https://iahmedbilal.github.io/Tic-Tac-toe-game/
+
+  
 </body>
 </html>
